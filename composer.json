@@ -1,5 +1,5 @@
 {
-    "name": "prabin/esewa",
+    "name": "prabin/laravelesewa",
     "type": "library",
     "license": "MIT",
     "autoload": {
